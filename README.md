@@ -27,10 +27,10 @@ Com o objetivo de melhorar constantemente minhas habilidades, me dedico a aprend
     style="margin-right:1%;"
   />
   <img
-    src="https://git-hub-streak-stats.vercel.app/?user=JheniferLais&theme=transparent&hide_border=true&background=00000000&stroke=7F52FF&ring=D4D4D4&fire=7F52FF&currStreakNum=7F52FF&currStreakLabel=7F52FF&sideNums=D4D4D4&sideLabels=D4D4D4&dates=D4D4D4"
-    alt="Streak"
-    width="34%"
-  />
+  src="https://github-readme-streak-stats.herokuapp.com/?user=JheniferLais&theme=transparent&hide_border=false&background=00000000&stroke=7F52FF&ring=D4D4D4&fire=7F52FF&currStreakNum=7F52FF&currStreakLabel=7F52FF&sideNums=D4D4D4&sideLabels=D4D4D4&dates=D4D4D4"
+  alt="GitHub Streak"
+  width="34%"
+/>
 </p>
 
 ## 📫 Contato
